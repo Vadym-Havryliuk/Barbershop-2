@@ -499,6 +499,7 @@ aside {
     text-decoration: none;
     text-transform: uppercase;
     font: 600 12px/16.34px 'Open Sans';
+    color: #303030;
 }
 
 .content-2 a:hover {

@@ -22,3 +22,4 @@ closeButton.addEventListener('click', function() {
     content3.style.animationDuration = '1s';
     content3.style.animationFillMode = 'both';
 });
+
